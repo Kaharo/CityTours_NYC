@@ -1,0 +1,184 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.963244, 40.7794366]
+      },
+      "properties": {
+        "#": 1,
+        "Place": "The Metropolitan Museum of Art",
+        "Short Description": "One of the world's largest and most prestigious museums, the Met boasts a vast collection of art from around the globe. Don't miss the Egyptian Art galleries, the rooftop garden, or the special exhibits.",
+        "Type": "Museum",
+        "Entry ticket": "suggested admission fee $25 for adults, discounts for students and seniors.",
+        "Prices start from": "$25.00",
+        "Address": "1000 5th Ave, New York, NY 10028",
+        "imgURL": "https://www.silverkris.com/wp-content/uploads/2021/08/shutterstock_300803246.jpg",
+        "Coordinates": "40.7794366, -73.963244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9655834, 40.7825547]
+      },
+      "properties": {
+        "#": 2,
+        "Place": "Central Park",
+        "Short Description": "The iconic 843-acre green space in the heart of Manhattan is a must-see for any visitor. From picnics on the Great Lawn to ice skating in the winter, Central Park offers something for everyone.",
+        "Type": "Public Park",
+        "Entry ticket": "free to enter",
+        "Prices start from": "$0.00",
+        "Address": "Central Park, New York, NY 10024",
+        "imgURL": "https://img.freepik.com/free-photo/central-park-manhattan-new-york-huge-beautiful-park-surrounded-by-skyscraper-with-pond_181624-50335.jpg?w=2000",
+        "Coordinates": "40.7825547, -73.9655834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9739882, 40.7813241]
+      },
+      "properties": {
+        "#": 3,
+        "Place": "The American Museum of Natural History",
+        "Short Description": "Discover the wonders of the natural world at this world-renowned museum. Don't miss the Rose Center for Earth and Space and the Butterfly Conservatory.",
+        "Type": "Museum",
+        "Entry ticket": "suggested admission fee $23 for adults, discounts for students and seniors.",
+        "Prices start from": "$23.00",
+        "Address": "Central Park West & 79th St, New York, NY 10024",
+        "imgURL": "https://www.si.edu/sites/default/files/newsdesk/fact_sheets/nhb2015-02891.jpg",
+        "Coordinates": "40.7813241, -73.9739882"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0047649, 40.7479925]
+      },
+      "properties": {
+        "#": 4,
+        "Place": "The High Line ",
+        "Short Description": "This elevated park built on an old railroad track offers a unique perspective on the city. Start at the southern end at the Meatpacking District and stroll north to the Javits Center.",
+        "Type": "Public Park",
+        "Entry ticket": "free to enter",
+        "Prices start from": "$0.00",
+        "Address": "Gansevoort St & Washington St, New York, NY 10014",
+        "imgURL": "https://live.staticflickr.com/291/19078400003_8a6f2f1587_b.jpg",
+        "Coordinates": "40.7479925, -74.0047649"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9856644, 40.7484405]
+      },
+      "properties": {
+        "#": 5,
+        "Place": "The Empire State Building ",
+        "Short Description": "Take in stunning views of the city from the observation deck of this iconic skyscraper. The 86th floor observatory offers panoramic views of New York City and beyond.",
+        "Type": "Observation Deck",
+        "Entry ticket": "general admission fee $37 for adults, discounts for children, students, and seniors.",
+        "Prices start from": "$37.00",
+        "Address": "350 5th Ave, New York, NY 10118",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/1/10/Empire_State_Building_%28aerial_view%29.jpg",
+        "Coordinates": "40.7484405, -73.98566439999999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9855426, 40.7579747]
+      },
+      "properties": {
+        "#": 6,
+        "Place": "Times Square New York",
+        "Short Description": "The bustling crossroads of the world is always a sight to see, and it's free! Don't miss the giant video screens, the costumed characters, and the street performers.",
+        "Type": "Iconic side",
+        "Entry ticket": "free to enter",
+        "Prices start from": "$0.00",
+        "Address": "Broadway & 7th Ave, New York, NY 10036",
+        "imgURL": "https://www.westend61.de/images/0001516646pw/times-square-manhattan-new-york-city-new-york-united-states-of-america-north-america-RHPLF19055.jpg",
+        "Coordinates": "40.7579747, -73.9855426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9822534, 40.7531823]
+      },
+      "properties": {
+        "#": 7,
+        "Place": "The New York Public Library & Bryant Park",
+        "Short Description": "The iconic main branch of the New York Public Library is a must-see for book lovers. Don't miss the Rose Main Reading Room, the original Children's Center, and the special exhibits in the Gottesman Hall of Planet Earth.",
+        "Type": "Public Library",
+        "Entry ticket": "free to enter",
+        "Prices start from": "$0.00",
+        "Address": "Fifth Ave & 42nd St, New York, NY 10018",
+        "imgURL": "",
+        "Coordinates": "40.75318230000001, -73.9822534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9589706, 40.7829796]
+      },
+      "properties": {
+        "#": 8,
+        "Place": "The Guggenheim Museum",
+        "Short Description": "This iconic museum is home to a collection of modern and contemporary art, including works by Pablo Picasso, Marcel Duchamp, and Jackson Pollock. Don't miss the museum's famous spiral ramp",
+        "Type": "Museum",
+        "Entry ticket": "general admission fee $25 for adults, discounts for students and seniors.",
+        "Prices start from": "$25.00",
+        "Address": "1071 5th Ave, New York, NY 10128",
+        "imgURL": "",
+        "Coordinates": "40.7829796, -73.9589706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9776216, 40.7614327]
+      },
+      "properties": {
+        "#": 9,
+        "Place": "The Museum of Modern Art",
+        "Short Description": "The MoMA is home to some of the world's most iconic modern art pieces, including works by Vincent van Gogh, Pablo Picasso, and Andy Warhol. Don't miss the special exhibits and the museum's film program",
+        "Type": "Museum",
+        "Entry ticket": "general admission fee $25 for adults, discounts for students and seniors.",
+        "Prices start from": "$25.00",
+        "Address": "11 W 53rd St, New York, NY 10019",
+        "imgURL":"https://www.silverkris.com/wp-content/uploads/2021/08/shutterstock_300803246.jpg"
+        "Coordinates": "40.7614327, -73.97762159999999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0445004, 40.6892494]
+      },
+      "properties": {
+        "#": 10,
+        "Place": "Statue of Liberty and Ellis Island",
+        "Short Description": "Take a ferry to Liberty Island and get up close to the iconic statue. Don't miss the Ellis Island Immigration Museum, which tells the story of the millions of immigrants who arrived in the United States through Ellis Island",
+        "Type": "Iconic side",
+        "Entry ticket": "general admission fee $18 for adult, discounts for children, students, and seniors.",
+        "Prices start from": "$18.00",
+        "Address": "Liberty Island, New York, NY 10004",
+        "Coordinates": "40.6892494, -74.04450039999999"
+      }
+    }
+  ]
+}

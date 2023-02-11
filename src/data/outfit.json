@@ -1,0 +1,110 @@
+[
+  {
+    "Month": "January",
+    "Average Temperature (°C)": -4,
+    "Average Warm Days": "0-2",
+    "Average Humidity (%)": 50,
+    "Average Sunny Days": "10-12",
+    "Clothing Advice": "Warm coat, gloves, scarf, insulated pants or leggings",
+    "Date": ""
+  },
+  {
+    "Month": "February",
+    "Average Temperature (°C)": -2,
+    "Average Warm Days": "2-4",
+    "Average Humidity (%)": 50,
+    "Average Sunny Days": "10-12",
+    "Clothing Advice": "Warm coat, gloves, scarf, insulated pants or leggings",
+    "Date": ""
+  },
+  {
+    "Month": "March",
+    "Average Temperature (°C)": 4,
+    "Average Warm Days": "5-7",
+    "Average Humidity (%)": 50,
+    "Average Sunny Days": "12-14",
+    "Clothing Advice": "Light coat, sweater, pants, closed-toe shoes",
+    "Date": ""
+  },
+  {
+    "Month": "April",
+    "Average Temperature (°C)": 10,
+    "Average Warm Days": "8-10",
+    "Average Humidity (%)": 50,
+    "Average Sunny Days": "14-16",
+    "Clothing Advice": "Light coat, sweater, pants, closed-toe shoes",
+    "Date": ""
+  },
+  {
+    "Month": "May",
+    "Average Temperature (°C)": 16,
+    "Average Warm Days": "12-14",
+    "Average Humidity (%)": 55,
+    "Average Sunny Days": "16-18",
+    "Clothing Advice": "Light coat, sweater, pants, closed-toe shoes",
+    "Date": ""
+  },
+  {
+    "Month": "June",
+    "Average Temperature (°C)": 22,
+    "Average Warm Days": "15-17",
+    "Average Humidity (%)": 60,
+    "Average Sunny Days": "18-20",
+    "Clothing Advice": "Light sweater, pants, closed-toe shoes",
+    "Date": ""
+  },
+  {
+    "Month": "July",
+    "Average Temperature (°C)": 25,
+    "Average Warm Days": "18-20",
+    "Average Humidity (%)": 65,
+    "Average Sunny Days": "20-22",
+    "Clothing Advice": "Light sweater, pants, closed-toe shoes",
+    "Date": ""
+  },
+  {
+    "Month": "August",
+    "Average Temperature (°C)": 25,
+    "Average Warm Days": "18-20",
+    "Average Humidity (%)": 65,
+    "Average Sunny Days": "20-22",
+    "Clothing Advice": "Light sweater, pants, closed-toe shoes",
+    "Date": ""
+  },
+  {
+    "Month": "September",
+    "Average Temperature (°C)": 21,
+    "Average Warm Days": "15-17",
+    "Average Humidity (%)": 60,
+    "Average Sunny Days": "18-20",
+    "Clothing Advice": "Light sweater, pants, closed-toe shoes",
+    "Date": ""
+  },
+  {
+    "Month": "October",
+    "Average Temperature (°C)": 15,
+    "Average Warm Days": "12-14",
+    "Average Humidity (%)": 55,
+    "Average Sunny Days": "16-18",
+    "Clothing Advice": "Light coat, sweater, pants, closed-toe shoes",
+    "Date": ""
+  },
+  {
+    "Month": "November",
+    "Average Temperature (°C)": 8,
+    "Average Warm Days": "8-10",
+    "Average Humidity (%)": 50,
+    "Average Sunny Days": "14-16",
+    "Clothing Advice": "Light coat, sweater, pants, closed-toe shoes",
+    "Date": ""
+  },
+  {
+    "Month": "December",
+    "Average Temperature (°C)": 1,
+    "Average Warm Days": "5-7",
+    "Average Humidity (%)": 50,
+    "Average Sunny Days": "12-14",
+    "Clothing Advice": "Warm coat, gloves, scarf, insulated pants or leggings",
+    "Date": ""
+  }
+]

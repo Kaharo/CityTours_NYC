@@ -14,7 +14,7 @@ export default function App() {
       {/* <main className="lg:max-w-6xl lg:px-0 lg:mx-auto"> */}
       <main className="mx-auto">
         <HeaderSection />
-        <PlacesSection className="" />
+        <PlacesSection />
         <MapSection />
         <FoodSection />
         <OutfitSection />

@@ -1,32 +1,15 @@
-// import React from 'react';
-// import { Link } from 'react-router-dom';
-
-// export default function Header() {
-//   return (
-//     <header>
-//       <nav>
-//         {/* <Link to="/">Home</Link>
-//         <Link to="/places">Places to Go</Link>
-//         <Link to="/eat">Where to Eat</Link>
-//         <Link to="/wear">What to Wear</Link>
-//         <Link to="/contact">Contact Us</Link> */}
-//       </nav>
-//     </header>
-//   );
-// }
-
 import React from 'react';
 import { Fragment } from 'react';
 import { Disclosure, Menu, Transition } from '@headlessui/react';
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline';
 
 const navigation = [
-  { name: 'Main', href: '#', current: true },
+  // { name: 'Main', href: '#', current: true },
   { name: 'Places', href: '#places', current: false },
+  { name: 'Mapspots', href: '#map', current: false },
   { name: 'Food', href: '#foodspots', current: false },
   { name: 'Clothing', href: '#clothing', current: false },
   { name: 'Contacts', href: '#contacts', current: false },
-  { name: 'Mapspots', href: '#map', current: false },
 ];
 
 function classNames(...classes) {
@@ -161,16 +144,16 @@ export default function Header() {
                 </div>
               </div>
               <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
-                <button
+                {/* <button
                   type="button"
                   className="rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800"
                 >
                   <span className="sr-only">View notifications</span>
                   <BellIcon className="h-6 w-6" aria-hidden="true" />
-                </button>
+                </button> */}
 
                 {/* Profile dropdown */}
-                <Menu as="div" className="relative ml-3">
+                {/* <Menu as="div" className="relative ml-3">
                   <div>
                     <Menu.Button className="flex rounded-full bg-gray-800 text-sm focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800">
                       <span className="sr-only">Open user menu</span>
@@ -232,7 +215,7 @@ export default function Header() {
                       </Menu.Item>
                     </Menu.Items>
                   </Transition>
-                </Menu>
+                </Menu> */}
               </div>
             </div>
           </div>

@@ -2,7 +2,10 @@ import React from 'react';
 
 export default function StayInTouchSection() {
   return (
-    <section class="relative mx-2 z-10 overflow-hidden bg-white py-20 lg:py-[120px]">
+    <section
+      id="contacts"
+      class="relative mx-2 z-10 overflow-hidden bg-white py-20 lg:py-[120px]"
+    >
       <div class="container mx-auto max-w-screen-lg">
         <div class="-mx-4 flex flex-wrap lg:justify-between">
           <div class="w-full px-4 lg:w-1/2 xl:w-6/12">
@@ -112,7 +115,7 @@ export default function StayInTouchSection() {
                 <div>
                   <button
                     type="submit"
-                    class="bg-primary border-primary w-full rounded border p-3 text-white transition hover:bg-opacity-90"
+                    class="bg-slate-500 border-primary w-full rounded border p-3 text-white transition hover:bg-opacity-90"
                   >
                     Send Message
                   </button>

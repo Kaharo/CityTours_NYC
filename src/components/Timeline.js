@@ -171,6 +171,5 @@ export default function Timeline() {
       </ol>
     );
   }
-
   return <div className="place-items-center">{Outfits(data)}</div>;
 }

@@ -2,10 +2,10 @@ import React from 'react';
 
 export default function PriceCard({ image, title, description, address }) {
   return (
-    <div class="w-full my-2 lg:mx-1 max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+    <div class="w-full my-2 lg:mx-1 max-w-sm bg-white border border-gray-200 rounded-lg shadow ">
       <a href="#">
         <img
-          class="p-8 rounded-t-lg max-h-64 w-full grayscale"
+          class="p-8 rounded-t-lg max-h-64 grayscale"
           src={
             image
               ? image
@@ -16,16 +16,12 @@ export default function PriceCard({ image, title, description, address }) {
       </a>
       <div class="px-5 pb-5">
         <a href="#">
-          <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
+          <h5 class="text-xl font-semibold tracking-tight text-gray-900 ">
             {title}
           </h5>
         </a>
-        <div className="tracking-tight text-gray-900 dark:text-gray-300">
-          {description}
-        </div>
-        <div className="tracking-tight text-gray-700 dark:text-gray-500">
-          {address}
-        </div>
+        <div className="tracking-tight text-gray-900 ">{description}</div>
+        <div className="tracking-tight text-gray-700 ">{address}</div>
         <div class="flex items-center mt-2.5 mb-5">
           <svg
             aria-hidden="true"

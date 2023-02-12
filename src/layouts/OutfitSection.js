@@ -3,7 +3,10 @@ import Timeline from '../components/Timeline';
 
 export default function OutfitSection() {
   return (
-    <section id="clothing" className="min-h-screen my-4 px-4 lg:px-24">
+    <section
+      id="clothing"
+      className="min-h-screen  bg-slate-100 my-4 px-4 lg:px-24"
+    >
       <div className="container mx-auto max-w-prose">
         <h2 className="text-gray-600 uppercase text-4xl mt-10 ">
           What to wear
